@@ -14,7 +14,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## From Alejandro Farfan (The Developer)
 1.  **Git Push.**
-    Please notice that this project was pushed with gitignore from Gatsby
+    Please notice that this project was pushed with gitignore from Gatsby.
+
     In order to run you need to init the project with Gatsby.
 
 2.  **Gatsby on Mac**
