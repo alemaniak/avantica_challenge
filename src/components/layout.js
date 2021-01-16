@@ -10,9 +10,11 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import HeaderCopy from "./headercopy"
 import "./layout.css"
 
 const Layout = ({ children }) => {
+  const sayHi = "Hello World";
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -25,7 +27,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
+      {/* <Header siteTitle={data.site.siteMetadata?.title || `Title`} /> */}
+
+      {/* This is the header copied that includes the H1 that redirects you to google. */}
+      <HeaderCopy siteTitle={sayHi} />
       <div
         style={{
           margin: `0 auto`,
