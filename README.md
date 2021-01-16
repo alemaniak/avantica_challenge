@@ -17,7 +17,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 ## From Alejandro Farfan (The Developer)
 
 1.  **Gatsby on Mac**
-    To instal Gatsby on mac you may need homebrew and use this command **`brew install gatsby-cli.`**
+    To install Gatsby on mac you may need homebrew and use this command **`brew install gatsby-cli.`**
 
 2.  **npm install**
     run npm install on the project to install all required components such as the ones from Gatsby and **`react-youtube`** (https://www.npmjs.com/package/react-youtube).
