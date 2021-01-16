@@ -12,17 +12,30 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+
+
 ## From Alejandro Farfan (The Developer)
-1.  **Git Push.**
-    Please notice that this project was pushed with gitignore from Gatsby.
 
-    In order to run you need to init the project with Gatsby.
+1.  **Gatsby on Mac**
+    To instal Gatsby on mac you may need homebrew and use this command **`brew install gatsby-cli.`**
 
-2.  **Gatsby on Mac**
-    To instal Gatsby on mac you need homebrew and use this command **`brew install gatsby-cli.`**
+2.  **npm install**
+    run npm install on the project to install all required components such as the ones from Gatsby and **`react-youtube`** (https://www.npmjs.com/package/react-youtube).
 
-3.  **npm install**
-    run npm install on the project to install all required components such as **`react-youtube`** (https://www.npmjs.com/package/react-youtube).
+3.  **Custom Components.**
+    Within the project you will finde the two new components under the folder *src/components/* 
+    These components are:
+    
+    **`headercopy.js`**
+    **`videoKitten.js`**
+    
+    Many Thanks for reading this, it was a nice challenge!.
+    
+    
+    
+    
+    
+    
     
 ## 🚀 Quick start
 
