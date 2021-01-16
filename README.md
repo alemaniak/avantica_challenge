@@ -18,10 +18,10 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     In order to run you need to init the project with Gatsby.
 
 2.  **Gatsby on Mac**
-    To instal Gatsby on mac you need homebrew and use this command *brew install gatsby-cli.*
+    To instal Gatsby on mac you need homebrew and use this command **`brew install gatsby-cli.`**
 
 3.  **npm install**
-    run npm install on the project to install all required components such as *react-youtube* (https://www.npmjs.com/package/react-youtube).
+    run npm install on the project to install all required components such as **`react-youtube`** (https://www.npmjs.com/package/react-youtube).
     
 ## 🚀 Quick start
 
